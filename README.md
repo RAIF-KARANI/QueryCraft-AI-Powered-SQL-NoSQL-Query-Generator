@@ -1,6 +1,6 @@
 # QueryCraft-AI-Powered-SQL-NoSQL-Query-Generator
 
-![QueryCraft Banner](https://syedmohammedsultan.online/assets/QueryCraft-uGgk6l1y.png) 
+[![QueryCraft Homepage](https://syedmohammedsultan.online/assets/QueryCraft-uGgk6l1y.png)](https://querycraft.hubzero.in)
 
 An intelligent, AI-powered database query assistant that transforms natural language into optimized database queries. QueryCraft leverages large language models (LLMs) to understand user intent and generate queries across multiple database systems.
 
