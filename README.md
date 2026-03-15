@@ -947,8 +947,8 @@ MIT License. See [LICENSE](LICENSE) file for details.
 **Repository**: [github.com/RAIF-KARANI/Query_Craft--Backend](https://github.com/RAIF-KARANI/Query_Craft--Backend) | [github.com/RAIF-KARANI/Query_Craft--Frontend](https://github.com/RAIF-KARANI/Query_Craft--Frontend)
 
 **Authors**:
+- Raif
 - Syed Mohammed Sultan
 - Rifaque Ahmed Akrami
-- Raif
 
 **Project Status**: Completed
