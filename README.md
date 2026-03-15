@@ -16,15 +16,15 @@ This repository serves as the central hub and documentation entry point for the 
 
 QueryCraft is divided into two main repositories to separate concerns between the user interface and the core processing API.
 
-### 1. [QueryCraft Frontend](https://github.com/Rifaque/querycraft-frontend)
+### 1. [QueryCraft Frontend](https://github.com/RAIF-KARANI/Query_Craft--Frontend)
 The interactive, visually immersive user interface. Built with **Next.js 15**, **React 19**, and **Tailwind CSS v4**, it features a real-time chat interface, 3D WebGL elements via Three.js, secure authentication flows, and beautiful syntax-highlighted code cards.
 
-* **Clone:** `git clone https://github.com/Rifaque/querycraft-frontend.git`
+* **Clone:** `git clone https://github.com/RAIF-KARANI/Query_Craft--Frontend.git`
 
-### 2. [QueryCraft Backend](https://github.com/Rifaque/querycraft-backend)
+### 2. [QueryCraft Backend](https://github.com/RAIF-KARANI/Query_Craft--Backend)
 The robust, scalable API engine. Built with **Node.js** and **Express**, it handles database connections, file-to-database conversions, JWT authentication, and intelligent routing to various LLM providers (Google GenAI, OpenRouter, and local models).
 
-* **Clone:** `git clone https://github.com/Rifaque/querycraft-backend.git`
+* **Clone:** `git clone https://github.com/RAIF-KARANI/Query_Craft--Backend.git`
 
 ---
 
@@ -75,16 +75,16 @@ QueryCraft operates on a client-server model optimized for AI data processing:
 To run the full QueryCraft stack locally, you will need to run both the backend and frontend simultaneously.
 
 ### Step 1: Start the Backend
-1. Clone the backend repository: `git clone https://github.com/Rifaque/querycraft-backend.git`
-2. Navigate to the directory: `cd querycraft-backend`
+1. Clone the backend repository: `git clone https://github.com/RAIF-KARANI/Query_Craft--Backend.git`
+2. Navigate to the directory: `cd Query_Craft--Backend`
 3. Install dependencies: `npm install`
 4. Set up your `.env` file (requires a MongoDB instance and LLM API keys—see backend README for details).
 5. Start the server: `npm run dev` (Runs on `http://localhost:5001`)
 
 ### Step 2: Start the Frontend
 1. Open a new terminal window.
-2. Clone the frontend repository: `git clone https://github.com/Rifaque/querycraft-frontend.git`
-3. Navigate to the directory: `cd querycraft-frontend`
+2. Clone the frontend repository: `git clone https://github.com/RAIF-KARANI/Query_Craft--Frontend.git`
+3. Navigate to the directory: `cd Query_Craft--Frontend`
 4. Install dependencies: `npm install`
 5. Set up your `.env.local` to point to the backend: `NEXT_PUBLIC_API_URL=http://localhost:5001/api`
 6. Start the client: `npm run dev` (Runs on `http://localhost:3000`)
