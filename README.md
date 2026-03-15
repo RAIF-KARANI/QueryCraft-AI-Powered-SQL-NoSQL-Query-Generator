@@ -1,6 +1,6 @@
 # ⚡ QueryCraft
 
-![QueryCraft Banner](https://querycraft.hubzero.in/) 
+![QueryCraft Banner](https://syedmohammedsultan.online/assets/QueryCraft-uGgk6l1y.png) 
 
 ## Overview
 
